@@ -1,6 +1,6 @@
-## **¡BIENVENIDOS A MI PRESENTACIÓN😎!**
+# **¡BIENVENIDOS A MI PRESENTACIÓN😎!**
 ---
-# *ANDRES MUÑOZ MUÑOZ*
+## *ANDRES MUÑOZ MUÑOZ*
 ### ***A continuación previos conocimientos en proceso de aprendizaje***
 
 - Recapitular el lenguaje JAVA
@@ -17,6 +17,6 @@
 
 ----
 ## ***Al finalizar la carrera espero culminar los lenguajes vistos a continuación:***
-<image src="https://img-c.udemycdn.com/course/480x270/5127236_8148.jpg" alt="Logo C++">
+<image src="https://img-c.udemycdn.com/course/480x270/5127236_8148.jpg"  alt="Logo C++">
 <image src="https://i.blogs.es/e7b69c/java_logo/650_1200.png" alt="Logo java2">
 <image src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/Python-01%20%282%29.png?itok=TEVIQBQo" alt="Logo java2">
